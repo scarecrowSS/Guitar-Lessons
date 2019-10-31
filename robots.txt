@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+Host: http://www.guitarkyiv.kiev.ua/
+Sitemap: http://www.guitarkyiv.kiev.ua/sitemap.xml
